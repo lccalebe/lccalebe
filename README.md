@@ -1,4 +1,4 @@
-### Hi, I'm Lucas 👋
+### Hi, I'm Lucas 👋🤙
 
 - 🔭 I’m currently working on my portfolio to improving my frontend.
 - 🌱 I’m currently learning Typescript and React.js.
