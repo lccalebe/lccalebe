@@ -1,7 +1,6 @@
 ### Hi, I'm Lucas 👋🤙
 
-- 🔭 I’m currently working on my portfolio to improving my frontend.
-- 🌱 I’m currently learning Typescript and React.js.
+- 🌱 I’m currently learning Python and Data Engineering.
 - 💬 Ask me about anything, i like to chat 😂
 - 📫 How to reach me: lukscalebe@hotmail.com
 - ⚡ Fun fact: I'm a graduated in physical education and i love sports as much as technology.
